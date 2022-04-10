@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Roboto&display=swap");
+.create {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin-left: 25%;
+}
+.create h1 {
+  color: rgb(155, 120, 77);
+  padding-top: 10px;
+}
+.create form {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  background-color: bisque;
+}
+.create input,
+.create textarea,
+.create select {
+  background-color: rgb(206, 206, 221);
+  font-size: 18px;
+  color: #385d96;
+}
+.create button {
+  background-color: #4d7bc2;
+  border: 2px solid #385d96;
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+}
+.create option {
+  color: #385d96;
+}
+.create option:hover {
+  background-color: #385d96;
+}
+.create label {
+  padding: 5px;
+  color: #385d96;
+  font-size: 18px;
+}

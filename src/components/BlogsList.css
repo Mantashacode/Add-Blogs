@@ -1,0 +1,22 @@
+.blog-preview {
+  background-color: rgb(206, 206, 221);
+  width: 48%;
+  margin-left: 25%;
+  padding: 5px 20px 20px 20px;
+
+  margin-bottom: 20px;
+}
+.blog-preview button {
+  background-color: #4d7bc2;
+  border: 1px solid white;
+  color: white;
+  font-size: 18px;
+  padding: 5px;
+}
+.blog-preview p {
+  color: #162e52;
+  font-weight: 600;
+}
+.blog-preview a {
+  text-decoration: none;
+}
